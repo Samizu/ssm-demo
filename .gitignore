@@ -1,0 +1,18 @@
+# IDE Files #
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+bin/
+*.log
+
+.DS_Store
